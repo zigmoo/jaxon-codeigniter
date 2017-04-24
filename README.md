@@ -48,7 +48,7 @@ Usage
 This is an example of a CodeIgniter controller using the Jaxon library.
 ```php
 
-class Demo extends CI_Controller
+class Demo extends Jaxon_Controller
 {
     public function __construct()
     {
